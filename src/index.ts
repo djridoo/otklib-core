@@ -3,6 +3,7 @@ export * from './dto'
 export * from './entity'
 export * from './props'
 export * from './use-case'
+export * from './module'
 
 export * from './access/access.error'
 export * from './access/access'
